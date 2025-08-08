@@ -9,3 +9,4 @@ public class Auto extends Vehiculo {
         System.out.println("El auto " + getMarca() + " " + getModelo() + " está encendiendo con llave.");
     }
 }
+// Forzar reconocimiento de Java
